@@ -2,8 +2,19 @@ Code base for the paper.
 
 "A convex approach for learning near-isometric linear embeddings"
 C. Hegde, A. Sankaranarayanan, W. Yin, R. Baraniuk
-JMLR (submitted)
+IEEE Transactions on Signal Processing, 63(22), pp.  6109-6121, 2015
 
+@article{hegde2015numax,
+  title={{NuMax: A} Convex Approach for Learning Near-Isometric Linear Embeddings},
+  author={Hegde, Chinmay and Sankaranarayanan, Aswin C. and Yin, Wotao and Baraniuk, Richard},
+  journal={IEEE Trans. Signal Processing},
+  volume={63},
+  number = {22},
+  pages={6109--6121},
+  year={2015},
+  url_Paper={files/paper/2015/numax_tsp.pdf},
+  pubtype = {Journal},
+}
 
 MAIN FUNCTIONS
 
