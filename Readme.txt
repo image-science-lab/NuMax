@@ -1,6 +1,6 @@
 Code base for the paper.
 
-"A convex approach for learning near-isometric linear embeddings"
+"NuMax --- A convex approach for learning near-isometric linear embeddings"
 C. Hegde, A. Sankaranarayanan, W. Yin, R. Baraniuk
 IEEE Transactions on Signal Processing, 63(22), pp.  6109-6121, 2015
 
